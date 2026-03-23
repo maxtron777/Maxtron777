@@ -2,30 +2,37 @@
 
 **I build AI-powered automation systems that run real businesses.**
 
-I work in projects spanning marketing, property management, NDIS disability services, skincare, and AI tooling. Every one of them runs on automation I built myself.
-
-I don't just talk about AI for business. I ship it, break it, fix it, and ship it again — every single day.
+I work across digital marketing, short-term rental management, e-commerce, and government health services — building the automation, AI agents, and internal tooling that make each one run. If a process can be automated, I've probably already shipped it.
 
 ---
 
-### What I automate
+### What I build
 
-- **Client acquisition** — AI-driven lead scoring, CRM pipelines, and nurture workflows
-- **Marketing ops** — Programmatic video creation, social media scheduling, SEO monitoring
-- **Operations** — Staff rostering, compliance tracking, participant management for NDIS services
-- **Property management** — Dynamic pricing, guest communication, multi-platform listing automation
-- **Internal tooling** — Custom CLIs, AI agents, knowledge management systems
+- **AI agents & workflows** — Autonomous agents that handle lead scoring, client onboarding, reporting, and decision support
+- **Marketing automation** — Programmatic video creation, social media scheduling, SEO monitoring, CRM pipeline orchestration
+- **Government & health ops** — Compliance tracking, rostering automation, participant management systems, care plan workflows
+- **Property management systems** — Dynamic pricing engines, guest communication bots, multi-platform listing sync
+- **Internal tools** — Custom CLIs, knowledge management systems, experiment runners, browser automation
 
 ### Stack
 
 ```
-Automation    n8n  ·  GoHighLevel  ·  Supabase  ·  Claude AI
-Frontend      Next.js  ·  React  ·  TypeScript  ·  Tailwind
-Video         Remotion  ·  FFmpeg
-Infrastructure  Hostinger VPS  ·  Caddy  ·  Docker  ·  Vercel
-Data          PostgreSQL  ·  Supabase  ·  Google Analytics
-Commerce      Shopify  ·  Stripe
+AI & Automation   Claude AI  ·  n8n  ·  GoHighLevel  ·  Supabase
+Frontend          Next.js  ·  React  ·  TypeScript  ·  Tailwind
+Video             Remotion  ·  FFmpeg
+Infrastructure    Hostinger VPS  ·  Caddy  ·  Docker  ·  Vercel
+Data              PostgreSQL  ·  Supabase  ·  Google Analytics
+Commerce          Shopify  ·  Stripe
 ```
+
+### Open source
+
+| Repo | What it is |
+|------|-----------|
+| [awesome-gohighlevel](https://github.com/Maxtron777/awesome-gohighlevel) | First-ever curated list of GoHighLevel tools, SDKs, MCP servers, and integrations |
+| [awesome-business-automation](https://github.com/Maxtron777/awesome-business-automation) | AI tools and frameworks mapped to real business automation use cases |
+| [n8n-ai-business-workflows](https://github.com/Maxtron777/n8n-ai-business-workflows) | Production-ready n8n workflows combining AI with business automation |
+| [supabase-second-brain](https://github.com/Maxtron777/supabase-second-brain) | Knowledge management system built on Supabase with pgvector semantic search |
 
 ### Current focus
 
