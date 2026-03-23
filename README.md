@@ -33,6 +33,8 @@ Commerce          Shopify  ·  Stripe
 | [awesome-business-automation](https://github.com/Maxtron777/awesome-business-automation) | AI tools and frameworks mapped to real business automation use cases |
 | [n8n-ai-business-workflows](https://github.com/Maxtron777/n8n-ai-business-workflows) | Production-ready n8n workflows combining AI with business automation |
 | [supabase-second-brain](https://github.com/Maxtron777/supabase-second-brain) | Knowledge management system built on Supabase with pgvector semantic search |
+| [remotion-business-templates](https://github.com/Maxtron777/remotion-business-templates) | Agency-ready video templates — testimonials, property listings, social ads, branded intros |
+| [claude-code-business-skills](https://github.com/Maxtron777/claude-code-business-skills) | Claude Code skills for business ops — lead scoring, SEO, reporting, email triage |
 
 ### Current focus
 
