@@ -2,7 +2,7 @@
 
 **I build AI-powered automation systems that run real businesses.**
 
-I'm the founder of [MEDINA GROUP](https://medzgroup.com) — a portfolio of companies spanning marketing, property management, NDIS disability services, skincare, and AI tooling. Every one of them runs on automation I built myself.
+I work in projects spanning marketing, property management, NDIS disability services, skincare, and AI tooling. Every one of them runs on automation I built myself.
 
 I don't just talk about AI for business. I ship it, break it, fix it, and ship it again — every single day.
 
